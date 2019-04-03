@@ -161,6 +161,8 @@ A curated list of awesome philosophy
 
 * Rudolf Carnap "Empiricism, Semantics, and Ontology"
 
+* David Chalmers "Constructing the World"
+
 * John Dewey "Experience and Nature"
 
 * William James "Pragmatism"
