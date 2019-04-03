@@ -235,6 +235,14 @@ A curated list of awesome philosophy
 
 #### Biology
 
+* Daniel C. Dennett "Darwin's Dangerous Idea"
+
+* Ruth Garrett Millikan "Language, Thought, and Other Biological Categories"
+
+* Erwin Schrödinger, What is Life? The Physical Aspect of the Living Cell"
+
+* Elliott Sober "The Nature of Selection"
+
 #### Sociology
 
 #### Psychology
