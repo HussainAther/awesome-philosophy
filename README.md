@@ -23,6 +23,8 @@ A curated list of awesome philosophy
     
     * [Christian and Medieval](#Christian-and-Medieval)
     
+    * [Early modern](#Early-modern)
+    
     * [Contemporary](#Contemporary)
     
         * [Phenomenology and existentialism](#Phenomenology-and-existentialism)
@@ -223,6 +225,8 @@ A curated list of awesome philosophy
 
 * William James "Pragmatism"
 
+* Immanuel Kant "The Metaphysics of Morals"
+
 * James Ladyman, Don Ross, David Spurrett, John Collier "Every Thing Must Go: Metaphysics Naturalized"
 
 * John McDowell "Mind and World"
@@ -260,6 +264,10 @@ A curated list of awesome philosophy
 ### Christian and Medieval
 
 * Augustine of Hippo "Confessions" "The City of God"
+
+### Early modern
+
+* Immanuel Kant "A Critique of Pure Reason" "A Critique of Judgement"
 
 ### Contemporary
 
