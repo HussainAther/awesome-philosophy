@@ -247,6 +247,16 @@ A curated list of awesome philosophy
 
 #### Language
 
+* J. L. Austin, "A Plea for Excuses" "How To Do Things With Words"
+
+* Gottlob Frege "On Sense and Reference"
+
+* Willard Van Orman Quine "Word and Object"
+
+* Bertrand Russell "On Denoting"
+
+* Ludwig Wittgenstein "Philosophical Investigations"
+
 #### History
 
 * R.G. Collingwood "The Idea of History"
