@@ -131,9 +131,21 @@ A curated list of awesome philosophy
 
 * Luc Bovens "Bayesian Epistemology"
 
-* Roderick Chisholm "Theory of knowledge"
+* Stanley Cavell "The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy"
+
+* Roderick Chisholm "Theory of Knowledge"
 
 * René Descartes "Discourse on the Method", "Meditations on First Philosophy"
+
+* Edmund Gettier "Is Justified True Belief Knowledge?"
+
+* Alvin Goldman "Epistemology and Cognition" "What is Justified Belief?"
+
+* G. E. Moore "A Defence of Common Sense"
+
+* Richard Rorty "Philosophy and the Mirror of Nature"
+
+* Bertrand Russell "The Problems of Philosophy"
 
 ## Logic
 
