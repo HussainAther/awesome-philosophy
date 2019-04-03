@@ -39,7 +39,7 @@ A curated list of awesome philosophy
             
     * [Eastern Civlization](#Eastern-civilization)
     
-            * [Islamic philosophy](#Islamic-philosophy)
+        * [Islamic philosophy](#Islamic-philosophy)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
