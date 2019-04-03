@@ -223,6 +223,14 @@ A curated list of awesome philosophy
 
 ## Aesthetics
 
+* Theodor Adorno "Aesthetic Theory"
+
+* R.G. Collingwood "The Principles of Art"
+
+* Arthur C. Danto "After the End of Art"
+
+* Nelson Goodman "Languages of Art: An Approach to a Theory of Symbols"
+
 ## Metaphysics
 
 * Aristotle "Metaphysics"
