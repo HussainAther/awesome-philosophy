@@ -249,6 +249,8 @@ A curated list of awesome philosophy
 
 * J. L. Austin, "A Plea for Excuses" "How To Do Things With Words"
 
+* Stanley Cavell "Must We Mean What We Say?"
+
 * Michael Dummett "Frege: Philosophy of Language"
 
 * Gottlob Frege "On Sense and Reference"
@@ -260,6 +262,8 @@ A curated list of awesome philosophy
 * Willard Van Orman Quine "Word and Object"
 
 * Bertrand Russell "On Denoting"
+
+* John Searle "Speech Acts"
 
 * Ludwig Wittgenstein "Philosophical Investigations"
 
