@@ -19,6 +19,12 @@ A curated list of awesome philosophy
 
 + [History of philosophy](#History-of-philosophy)
 
+    * [Classical](#Classical)
+    
+    * [Christian and Medieval](#Christian-and-Medieval)
+    
+    * [Contemporary](#Contemporary)
+
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
     * [Education](#Education)
@@ -239,9 +245,13 @@ A curated list of awesome philosophy
 
 * Augustine of Hippo "Confessions" "The City of God"
 
-### Modern
+### Contemporary
 
-### Postmodern
+#### Phenomenology and existentialism
+
+#### Hermeneutics and deconstruction
+
+#### Structuralism and post-structuralism
 
 ## Philosophy of other disciplines
 
