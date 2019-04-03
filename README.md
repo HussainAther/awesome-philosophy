@@ -5,6 +5,8 @@ A curated list of awesome philosophy
 
 + [Ethics](#Ethics)
 
++ [Meta-ethics](#Meta-ethics)
+
 + [Epistemology](#Epistemology)
 
 + [Logic](#Logic)
@@ -43,7 +45,7 @@ A curated list of awesome philosophy
 
         * [Music](#Music)
 
-        * [Poetry](#Poetry)
+        * [Literatue](#Literature)
 
         * [Language](#Language)
 
@@ -61,7 +63,23 @@ A curated list of awesome philosophy
 
 ### Modern
 
+* G. E. M. Anscombe "Modern Moral Philosophy"
+
+* Christine Korsgaard "The Sources of Normativity"
+
 #### Postmodern
+
+#### Bioethics
+
+* Don Marquis "Why Abortion is Immoral"
+
+* Paul Ramsey "The Patient as a Person" "Fabricated Man"
+
+* Judith Jarvis Thomson "A Defense of Abortion"
+
+## Meta-ethics
+
+* P. F. Strawson "Freedom and Resentment"
 
 ## Epistemology
 
@@ -81,13 +99,21 @@ A curated list of awesome philosophy
 
 ## Philosophy of the mind
 
+* David Chalmers "Philosophy of Mind: Classical and Contemporary Readings"
+
 ## History of philosophy
 
 * Bertrand Russell "A History of Western Philosophy"
 
 ### Classical
 
+* Marcus Aurelius "Meditations""
+
+* Plato "Symposium" "Parmenides" "Phaedrus"
+
 ### Christian and Medieval
+
+* Augustine of Hippo "Confessions" "The City of God"
 
 ### Modern
 
@@ -104,6 +130,12 @@ A curated list of awesome philosophy
 #### Physics
 
 * Aristotle "Physics"
+
+* Michel Bitbol "Mécanique quantique : Une introduction philosophique" "Schrödinger’s Philosophy of Quantum Mechanics"
+
+* Chris Isham and Jeremy Butterfield "On the Emergence of Time in Quantum Gravity"
+
+* Tim Lewens "The Meaning of Science: An Introduction to the Philosophy of Science"
 
 #### Computer science
 
@@ -129,7 +161,9 @@ A curated list of awesome philosophy
 
 #### Music
 
-#### Poetry
+#### Literature
+
+* Aristotle "Poetics"
 
 #### Language
 
