@@ -5,6 +5,8 @@ A curated list of awesome philosophy
 
 + [Ethics](#Ethics)
 
+    * [Classical](#Classical)
+    
 + [Meta-ethics](#Meta-ethics)
 
 + [Epistemology](#Epistemology)
