@@ -167,6 +167,8 @@ A curated list of awesome philosophy
 
 * William James "Pragmatism"
 
+* James Ladyman, Don Ross, David Spurrett, John Collier "Every Thing Must Go: Metaphysics Naturalized"
+
 * John McDowell "Mind and World"
 
 * David Kellogg Lewis "On the Plurality of Worlds"
