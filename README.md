@@ -129,6 +129,8 @@ A curated list of awesome philosophy
 
 ## Epistemology
 
+* Laurence Bonjour "The Structure of Empirical Knowledge"
+
 * Luc Bovens "Bayesian Epistemology"
 
 * Stanley Cavell "The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy"
@@ -140,6 +142,8 @@ A curated list of awesome philosophy
 * Edmund Gettier "Is Justified True Belief Knowledge?"
 
 * Alvin Goldman "Epistemology and Cognition" "What is Justified Belief?"
+
+* Susan Haack "Evidence and Enquiry"
 
 * G. E. Moore "A Defence of Common Sense"
 
