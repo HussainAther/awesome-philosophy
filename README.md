@@ -289,6 +289,8 @@ A curated list of awesome philosophy
 
 * David Chalmers "Philosophy of Mind: Classical and Contemporary Readings" "The Character of Consciousness" "The Conscious Mind: In Search of a Fundamental Theory"
 
+* Paul Churchland "Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind"
+
 * Andy Clark "Supersizing the Mind: Embodiment, Action, and Cognitive Extension"
 
 * Daniel Dennett  "Consciousness Explained"
