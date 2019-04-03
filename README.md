@@ -291,6 +291,20 @@ A curated list of awesome philosophy
 
 #### Critical theory and Marxism
 
+* Theodor Adorno "Negative Dialectics"
+
+* Louis Althusser "Reading Capital"
+
+* Alain Badiou "Being and Event"
+
+* Jürgen Habermas "Theory of Communicative Action"
+
+* Max Horkheimer and Theodor Adorno "Dialectic of Enlightenment"
+
+* Georg Lukacs "History and Class Consciousness"
+
+* Herbert Marcuse "Reason and Revolution" "Eros and Civilization"
+
 ## Philosophy of other disciplines
 
 ### Education
