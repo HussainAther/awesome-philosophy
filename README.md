@@ -197,6 +197,10 @@ A curated list of awesome philosophy
 
 * Alfred North Whitehead and Bertrand Russell "Principia Mathematica"
 
+* Paul Benacerraf "What Numbers Could not Be" "Mathematical Truth"
+
+* Paul Benacerraf and Hilary Putnam "Philosophy of Mathematics: Selected Readings"
+
 #### Physics
 
 * Aristotle "Physics"
