@@ -1,4 +1,4 @@
-# Awesome philosophy
+# [Awesome philosophy](#Awesome-philosophy)
 A curated list of awesome philosophy
 
 # [Table of contents](#Table-of-contents)
