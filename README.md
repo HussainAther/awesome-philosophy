@@ -54,6 +54,10 @@ A curated list of awesome philosophy
         * [Language](#Language)
 
         * [History](#History)
+    
+    * [Law](#Ethics)
+    
+    * [Politics](#Politics)
 
 ## Ethics
 
@@ -236,3 +240,25 @@ A curated list of awesome philosophy
 * R.G. Collingwood "The Idea of History"
 
 * Karl Löwith "Meaning in History: The Theological Implications of the Philosophy of History"
+
+### Law
+
+* Ronald Dworkin "Law's Empire"
+
+* John Finnis "Natural Law and Natural Rights"
+
+* Lon L. Fuller "The Morality of Law"
+
+* H.L.A. Hart "The Concept of Law"
+
+### Politics
+
+* Isaiah Berlin "Two Concepts of Liberty"
+
+* Robert Nozick "Anarchy, State, and Utopia"
+
+* Karl Popper "The Open Society and Its Enemies"
+
+* John Rawls "A Theory of Justice"
+
+* Michael Sandel "Liberalism and the Limits of Justice"
