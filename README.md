@@ -87,6 +87,8 @@ A curated list of awesome philosophy
 
 * Saint Bonaventure "Commentary on the Sentences"
 
+* Duns Scotus "Philosophical Writings"
+
 * William of Ockham "Sum of Logic"
 
 ### Modern
