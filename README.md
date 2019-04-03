@@ -19,7 +19,7 @@ A curated list of awesome philosophy
 
 + Philosophy of other disciplines
 
-- Sciences
+++ Sciences
 
 -- Mathematics
 
