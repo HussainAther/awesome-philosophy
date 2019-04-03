@@ -253,6 +253,8 @@ A curated list of awesome philosophy
 
 * Stanley Cavell "Must We Mean What We Say?"
 
+* David Chalmers "Two Dimensional Semantics"
+
 * Cora Diamond "What Nonsense Might Be"
 
 * Michael Dummett "Frege: Philosophy of Language"
@@ -262,6 +264,8 @@ A curated list of awesome philosophy
 * H. P. Grice "Logic and Conversation"
 
 * Saul Kripke "Naming and Necessity"
+
+* David K. Lewis "General Semantics"
 
 * Willard Van Orman Quine "Word and Object"
 
