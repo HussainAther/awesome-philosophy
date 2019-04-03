@@ -577,6 +577,8 @@ A curated list of awesome philosophy
 
 #### Neuroscience
 
+* John Bickle "Revisionary Physicalism" "Psychoneural Reduction of the Genuinely Cognitive: Some Accomplished Facts" "Psychoneural Reduction: The New Wave" " Philosophy and Neuroscience: A Ruthlessly Reductive Account"
+
 * Patricia Churchland "Brain-Wise : Studies in Neurophilosophy" "Neurophilosophy : Toward a Unified Science of the Mind-Brain"
 
 * Carl Craver "Explaining the brain : mechanisms and the mosaic unity of neuroscience"
