@@ -201,6 +201,10 @@ A curated list of awesome philosophy
 
 * Paul Benacerraf and Hilary Putnam "Philosophy of Mathematics: Selected Readings"
 
+* George Boolos "Logic, Logic and Logic"
+
+* Imre Lakatos "Proofs and Refutations"
+
 #### Physics
 
 * Aristotle "Physics"
