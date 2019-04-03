@@ -399,7 +399,21 @@ A curated list of awesome philosophy
 
 #### Chinese philosophy
 
+* "The Record of Linji"
 
+* Han Fei "Han Feizi"
+
+* Kongzi "Analects" "Five Classics"
+
+* Laozi "Dao De Jing"
+
+* Mengzi "Mengzi"
+
+* Sunzi "Art of War"
+
+* Zhou Dunyi "The Taiji Tushuo"
+
+* Zhu Xi "Four Books" "Reflections on Things at Hand"
 
 #### Indian philosophy
 
@@ -407,9 +421,9 @@ A curated list of awesome philosophy
 
 * "The Bhagavad Gita" ("The Song of God")
 
-* Isvarakrsna "Sankhya Karika"
-
 * Aksapada Gautama "Nyaya Sutras"
+
+* Isvarakrsna "Sankhya Karika"
 
 * Kanada "Vaisheshika Sutra"
 
