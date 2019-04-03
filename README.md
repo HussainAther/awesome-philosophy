@@ -155,6 +155,8 @@ A curated list of awesome philosophy
 
 * Aristotle "Metaphysics"
 
+* John Dewey "Experience and Nature"
+
 ## Philosophy of the mind
 
 * David Chalmers "Philosophy of Mind: Classical and Contemporary Readings"
