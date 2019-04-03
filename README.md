@@ -289,6 +289,8 @@ A curated list of awesome philosophy
 
 * David Chalmers "Philosophy of Mind: Classical and Contemporary Readings" "The Character of Consciousness"
 
+* Andy Clark "Supersizing the Mind: Embodiment, Action, and Cognitive Extension"
+
 * Daniel Dennett  "Consciousness Explained"
 
 * Ruth Millikan "Varieties of Meaning"
