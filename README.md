@@ -271,6 +271,12 @@ A curated list of awesome philosophy
 
 #### Hermeneutics and deconstruction
 
+* Jacques Derrida "Of Grammatology"
+
+* Hans-Georg Gadamer "Truth and Method"
+
+* Paul Ricœur "Freud and Philosophy: An Essay on Interpretation"
+
 #### Structuralism and post-structuralism
 
 #### Critical theory and Marxism
