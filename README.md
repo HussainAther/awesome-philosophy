@@ -21,7 +21,7 @@ A curated list of awesome philosophy
 
     * Sciences
 
--- Mathematics
+        * Mathematics
 
 -- Physics
 
