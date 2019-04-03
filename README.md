@@ -21,6 +21,8 @@ A curated list of awesome philosophy
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
+    * [Education](#Education)
+
     * [Sciences](#Sciences)
 
         * [Mathematics](#Mathematics)
@@ -105,6 +107,8 @@ A curated list of awesome philosophy
 
 #### Postmodern
 
+* Terry Eagleton "The Illusions of Postmodernism"
+
 #### Bioethics
 
 * Don Marquis "Why Abortion is Immoral"
@@ -157,6 +161,20 @@ A curated list of awesome philosophy
 
 ## Philosophy of other disciplines
 
+### Education
+
+* John Dewey "Democracy and Education"
+
+* Terry Eagleton "The Slow Death of the University"
+
+* Paulo Freire "Pedagogy of the Oppressed"
+
+* Martha Nussbaum "Not for Profit: Why Democracy Needs the Humanities"
+
+* B.F. Skinner "Walden Two"
+
+* Charles Weingartner and Neil Postman "Teaching as a Subversive Activity"
+
 ### Sciences
 
 #### Mathematics
@@ -200,6 +218,8 @@ A curated list of awesome philosophy
 * Elizabeth S. Anderson "Value in Ethics and Economics"
         
 ### Arts and Humanities
+
+* Bernard Williams "Philosophy as a Humanistic Discipline"
 
 #### Art
 
