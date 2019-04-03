@@ -151,6 +151,8 @@ A curated list of awesome philosophy
 
 * Bertrand Russell "The Problems of Philosophy"
 
+* Stephen Stich "The Fragmentation of Reason"
+
 ## Logic
 
 * Donald Davidson "Truth and Meaning"
