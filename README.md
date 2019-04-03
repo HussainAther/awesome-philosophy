@@ -3,17 +3,17 @@ A curated list of awesome philosophy
 
 # Table of contents
 
-+ Ethics
++ [Ethics](#Ethics)
 
-+ Epistemology
++ [Epistemology](#Epistemology)
 
-+ Logic
++ [Logic](#Logic)
 
-+ Aesthetics
++ [Aesthetics](#Aesthetics)
 
-+ Metaphysics
++ [Metaphysics](#Metaphysics)
 
-+ Philosophy of the mind
++ [Philosophy of the mind](#Philosophy-of-the-mind)
 
 + History of philosophy
 
@@ -23,31 +23,31 @@ A curated list of awesome philosophy
 
         * Mathematics
 
--- Physics
+        * Physics
 
--- Computer science
+        * Computer science
 
--- Neurosciecne
+        * Neurosciecne
 
--- Biology
+        * Biology
 
--- Sociology
+        * Sociology
 
--- Biology
+        * Biology
 
--- Psychology
+        * Psychology
+        
+    * Arts and Humanities
 
-- Arts and Humanities
+        * Art
 
--- Art
+        * Music
 
--- Music
+        * Poetry
 
--- Poetry
+        * Language
 
--- Language
-
--- History
+        * History
 
 ## Ethics
 
