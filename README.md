@@ -1,7 +1,7 @@
 # Awesome philosophy
 A curated list of awesome philosophy
 
-# Table of contents
+# [Table of contents](#Table-of-contents)
 
 + [Ethics](#Ethics)
 
