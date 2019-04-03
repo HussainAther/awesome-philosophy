@@ -231,7 +231,7 @@ A curated list of awesome philosophy
 
 * William James "Pragmatism"
 
-* Immanuel Kant "The Metaphysics of Morals"
+* Immanuel Kant "Groundwork of the Metaphysics of Morals"
 
 * James Ladyman, Don Ross, David Spurrett, John Collier "Every Thing Must Go: Metaphysics Naturalized"
 
@@ -273,11 +273,73 @@ A curated list of awesome philosophy
 
 * Augustine of Hippo "Confessions" "The City of God"
 
+* Anselm of Canterbury "Proslogion"
+
 #### Early modern
 
-* David Hume "A Treatise of Human Nature" "Four Dissertationss" "Essays, Moral, Political, and Literary"
+* Sir Francis Bacon "Novum Organum"
 
-* Immanuel Kant "A Critique of Pure Reason" "A Critique of Judgement"
+* Jeremy Bentham "An Introduction to the Principles of Morals and Legislation"
+
+* Henri Bergson "Time and Free Will" "Matter and Memory"
+
+* George Berkeley "Treatise Concerning the Principles of Human Knowledge"
+
+* Auguste Comte "Course of Positive Philosophy"
+
+* René Descartes "Principles of Philosophy" "Passions of the Soul"
+
+* Desiderius Erasmus "The Praise of Folly"
+
+* Johann Gottlieb Fichte "Foundations of the Science of Knowledge"
+
+* Hugo Grotius "De iure belli ac pacis"
+
+* Georg Wilhelm Friedrich Hegel "Phenomenology of Spirit" "Science of Logic" "The Philosophy of Right" "The Philosophy of History"
+
+* Thomas Hobbes "Leviathan"
+
+* David Hume "A Treatise of Human Nature" "Four Dissertationss" "Essays, Moral, Political, and Literary" "An Enquiry Concerning Human Understanding" "An Enquiry Concerning the Principles of Morals"
+
+* Immanuel Kant "A Critique of Pure Reason" "Critique of Practical Reason" "A Critique of Judgement"
+
+* Søren Kierkegaard "Either/Or" "Fear and Trembling" "The Concept of Anxiety"
+
+* Gottfried Leibniz "Discourse on Metaphysics" "New Essays Concerning Human Understanding" "Théodicée" "Monadology"
+
+* John Locke "Two Treatises of Government" "An Essay Concerning Human Understanding"
+
+* Niccolò Machiavelli "The Prince"
+
+* Karl Marx "The Communist Manifesto" "Das Kapital"
+
+* John Stuart Mill "On Liberty "Utilitarianism"
+
+*John Stuart Mill and Harriet Taylor Mill "The Subjection of Women"
+
+* Michel de Montaigne "Essays"
+
+* Friedrich Nietzsche "Thus Spoke Zarathustra" "Beyond Good and Evil" "On the Genealogy of Morals"
+
+* Blaise Pascal "Pensées"
+
+* Jean-Jacques Rousseau "Discourse on the Arts and Sciences" "Emile: or, On Education" "The Social Contract"
+
+* Arthur Schopenhauer "The World as Will and Representation"
+
+* Henry Sidgwick "The Methods of Ethics"
+
+* Adam Smith "The Theory of Moral Sentiments" "The Wealth of Nations"
+
+* Herbert Spencer "System of Synthetic Philosophy"
+
+* Baruch Spinoza "Ethics" "Tractatus Theologico-Politicus"
+
+* Max Stirner "The Ego and Its Own"
+
+* Mary Wollstonecraft "A Vindication of the Rights of Women"
+
+
 
 #### Contemporary
 
@@ -335,7 +397,7 @@ A curated list of awesome philosophy
 
 #### Islamic philosophy
 
-* Al-Ghazali, The Incoherence of the Philosophers
+* Al-Ghazali "The Incoherence of the Philosophers"
 
 ## Philosophy of other disciplines
 
