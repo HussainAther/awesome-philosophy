@@ -15,39 +15,37 @@ A curated list of awesome philosophy
 
 + [Philosophy of the mind](#Philosophy-of-the-mind)
 
-+ History of philosophy
++ [History of philosophy](#History-of-philosophy)
 
-+ Philosophy of other disciplines
++ [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
-    * Sciences
+    * [Sciences](#Sciences)
 
-        * Mathematics
+        * [Mathematics](#Mathematics)
 
-        * Physics
+        * [Physics](#Physics)
 
-        * Computer science
+        * [Computer science](#Computer-science)
 
-        * Neurosciecne
+        * [Neuroscience](#Neuroscience)
 
-        * Biology
+        * [Biology](#Biology)
 
-        * Sociology
+        * [Sociology](#Sociology)
 
-        * Biology
-
-        * Psychology
+        * [Psychology](#Psychology)
         
-    * Arts and Humanities
+    * [Arts and Humanities](#Arts-and-Humanities)
 
-        * Art
+        * [Art](#Art)
 
-        * Music
+        * [Music](#Music)
 
-        * Poetry
+        * [Poetry](#Poetry)
 
-        * Language
+        * [Language](#Language)
 
-        * History
+        * [History](#History)
 
 ## Ethics
 
@@ -60,3 +58,33 @@ A curated list of awesome philosophy
 ## Philosophy of the mind
 
 ## History of philosophy
+
+## Philosophy of other disciplines
+
+### Sciences
+
+#### Mathematics
+
+#### Physics
+
+#### Computer science
+
+#### Neuroscience
+
+#### Biology
+
+#### Sociology
+
+#### Psychology
+        
+### Arts and Humanities
+
+#### Art
+
+#### Music
+
+#### Poetry
+
+#### Language
+
+#### History
