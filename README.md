@@ -589,6 +589,8 @@ A curated list of awesome philosophy
 
 * Mario Bunge "Medical Philosophy: Conceptual Issues in Medicine"
 
+* R. Paul Thompson and Ross E. G. Upshur "Philosophy of Medicines"
+
 #### Economics
 
 * Kenneth Arrow "Social Choice and Individual Values"
