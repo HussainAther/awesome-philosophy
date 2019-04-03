@@ -37,7 +37,9 @@ A curated list of awesome philosophy
 
         * [Psychology](#Psychology)
         
-        *[Medicine](#Medicine)
+        * [Medicine](#Medicine)
+        
+        * [Economics](#Economics)
         
     * [Arts and Humanities](#Arts-and-Humanities)
 
@@ -55,9 +57,7 @@ A curated list of awesome philosophy
 
 ### Classical
 
-* Aristotle "Nichomachean Ethics"
-
-* Martha Nussabum "The Fragility of Goodness"
+* Aristotle "Nichomachean Ethics" "On Virtues and Vices" "Politics"
 
 ### Christian and Medieval
 
@@ -65,7 +65,43 @@ A curated list of awesome philosophy
 
 * G. E. M. Anscombe "Modern Moral Philosophy"
 
+* David Gauthier "Morals by Agreement"
+
+* Alan Gewirth "Reason and Morality"
+
+* Allan Gibbard "Thinking How to Live"
+
+* Susan Hurley "Natural Reasons"
+
 * Christine Korsgaard "The Sources of Normativity"
+
+* John McDowell "Values and Secondary Qualities"
+
+* Alasdair MacIntyre "After Virtue"
+
+* J. L. Mackie "Ethics: Inventing Right and Wrong"
+
+* G. E. Moore "Principia Ethica"
+
+* Martha Nussbaum "The Fragility of Goodness"
+
+* Derek Parfit "Reasons and Persons"
+
+* Derek Parfit "On What Matters"
+
+* Peter Railton "Facts, Values, and Norms"
+
+* W. D. Ross "The Right and the Good"
+
+* Thomas M. Scanlon "What We Owe to Each Other"
+
+* Samuel Scheffler "The Rejection of Consequentialism"
+
+* Peter Singer "Practical Ethics"
+
+* Michael A. Smith "The Moral Problem"
+
+* Bernard Williams "Ethics and the Limits of Philosophy"
 
 #### Postmodern
 
@@ -154,6 +190,14 @@ A curated list of awesome philosophy
 #### Medicine
 
 * Mario Bunge "Medical Philosophy: Conceptual Issues in Medicine"
+
+#### Economics
+
+* Kenneth Arrow "Social Choice and Individual Values"
+
+* Ludwig von Mises "The Ultimate Foundation of Economic Science"
+
+* Elizabeth S. Anderson "Value in Ethics and Economics"
         
 ### Arts and Humanities
 
