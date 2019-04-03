@@ -169,9 +169,13 @@ A curated list of awesome philosophy
 
 * David Kellogg Lewis "On the Plurality of Worlds"
 
+* Stephen Mumford "Dispositions"
+
 * Derek Parfit "Reasons and Persons"
 
 * Willard Van Orman Quine "Two Dogmas of Empiricism" "On What There Is"
+
+* Theodore Sider "Writing the Book of the World"
 
 * Alfred North Whitehead "Process and Reality"
 
