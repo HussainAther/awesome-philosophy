@@ -155,11 +155,23 @@ A curated list of awesome philosophy
 
 * Aristotle "Metaphysics"
 
+* D.M. Armstrong "Universals and Scientific Realism"
+
 * A. J. Ayer "Language, Truth, and Logic"
+
+* Rudolf Carnap "Empiricism, Semantics, and Ontology"
 
 * John Dewey "Experience and Nature"
 
 * William James "Pragmatism"
+
+* John McDowell "Mind and World"
+
+* David Kellogg Lewis "On the Plurality of Worlds"
+
+* Derek Parfit "Reasons and Persons"
+
+* Willard Van Orman Quine "Two Dogmas of Empiricism" "On What There Is"
 
 * Alfred North Whitehead "Process and Reality"
 
