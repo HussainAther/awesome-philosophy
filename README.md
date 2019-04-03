@@ -49,7 +49,15 @@ A curated list of awesome philosophy
 
 ## Ethics
 
+### Ancient ethics
+
+### Business
+
+###
+
 ## Epistemology
+
+* René Descartes "Discourse on the Method", "Meditations on First Philosophy"
 
 ## Logic
 
@@ -58,6 +66,14 @@ A curated list of awesome philosophy
 ## Philosophy of the mind
 
 ## History of philosophy
+
+### Classical
+
+### Christian and Medieval
+
+### Modern
+
+### Postmodern
 
 ## Philosophy of other disciplines
 
@@ -90,3 +106,4 @@ A curated list of awesome philosophy
 #### Language
 
 #### History
+
