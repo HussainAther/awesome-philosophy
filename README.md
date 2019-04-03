@@ -24,6 +24,14 @@ A curated list of awesome philosophy
     * [Christian and Medieval](#Christian-and-Medieval)
     
     * [Contemporary](#Contemporary)
+    
+        * [Phenomenology and existentialism](#Phenomenology-and-existentialism)
+        
+        * [Hermeneutics and deconstruction](#Hermeneutics-and-deconstruction)
+        
+        * [Structuralism and post-structuralism](#Structuralism-and-post-structuralism)
+        
+        * [Critical theory and Marxism](#Critical-theory-and-Marxism)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
@@ -252,6 +260,8 @@ A curated list of awesome philosophy
 #### Hermeneutics and deconstruction
 
 #### Structuralism and post-structuralism
+
+#### Critical theory and Marxism
 
 ## Philosophy of other disciplines
 
