@@ -581,6 +581,8 @@ A curated list of awesome philosophy
 
 * Carl Craver "Explaining the brain : mechanisms and the mosaic unity of neuroscience"
 
+* Georg Northoff "Philosophy of the Brain: The brain problem"
+
 * Henrik Walter "Neurophilosophy of Free Will: From Libertarian Illusions to a Concept of Natural Autonomy"
 
 #### Chemistry
