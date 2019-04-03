@@ -50,8 +50,10 @@ A curated list of awesome philosophy
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
     * [Education](#Education)
+    
+    * [Religion](#Religion)
 
-    * [Sciences](#Sciences)
+    * [Science](#Science)
 
         * [Mathematics](#Mathematics)
 
@@ -473,7 +475,23 @@ A curated list of awesome philosophy
 
 * Charles Weingartner and Neil Postman "Teaching as a Subversive Activity"
 
-### Sciences
+### Religion
+
+* William Lane Craig "The Kalam Cosmological Argument"
+
+* J. L. Mackie "The Miracle of Theism"
+
+* Dewi Zephaniah Phillips "Religion Without Explanation"
+
+* Alvin Plantinga "God and Other Minds" "Is Belief in God Properly Basic"
+
+* William Rowe "The Evidential Argument from Evil: A Second Look"
+
+* J. L. Schellenberg "Divine Hiddenness and Human Reason"
+
+* Richard Swinburne "The Existence of God"
+
+### Science
 
 #### Mathematics
 
@@ -526,6 +544,10 @@ A curated list of awesome philosophy
 #### Sociology
 
 #### Psychology
+
+* Donald Davidson "The Very Idea of a Conceptual Scheme"
+
+* William James "The Principles of Psychology"
 
 #### Medicine
 
