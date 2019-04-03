@@ -1,4 +1,4 @@
-# awesome-philosophy
+# Awesome philosophy
 A curated list of awesome philosophy
 
 # Table of contents
@@ -35,6 +35,8 @@ A curated list of awesome philosophy
 
         * [Psychology](#Psychology)
         
+        *[Medicine](#Medicine)
+        
     * [Arts and Humanities](#Arts-and-Humanities)
 
         * [Art](#Art)
@@ -51,6 +53,10 @@ A curated list of awesome philosophy
 
 ### Classical
 
+* Aristotle "Nichomachean Ethics"
+
+* Martha Nussabum "The Fragility of Goodness"
+
 ### Christian and Medieval
 
 ### Modern
@@ -59,13 +65,19 @@ A curated list of awesome philosophy
 
 ## Epistemology
 
-* René Descartes "Discourse on the Method", "Meditations on First Philosophy"
-
 * Luc Bovens "Bayesian Epistemology"
+
+* Roderick Chisholm "Theory of knowledge"
+
+* René Descartes "Discourse on the Method", "Meditations on First Philosophy"
 
 ## Logic
 
 ## Aesthetics
+
+## Metaphysics
+
+* Aristotle "Metaphysics"
 
 ## Philosophy of the mind
 
@@ -91,7 +103,11 @@ A curated list of awesome philosophy
 
 #### Physics
 
+* Aristotle "Physics"
+
 #### Computer science
+
+* Scott Aaronson "Why Philosophers Should Care About Computational Complexity"
 
 * Judea Pearl "Causality""
 
@@ -102,6 +118,10 @@ A curated list of awesome philosophy
 #### Sociology
 
 #### Psychology
+
+#### Medicine
+
+* Mario Bunge "Medical Philosophy: Conceptual Issues in Medicine"
         
 ### Arts and Humanities
 
