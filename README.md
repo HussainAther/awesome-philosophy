@@ -17,10 +17,40 @@ A curated list of awesome philosophy
 
 + History of philosophy
 
-+
++ Philosophy of other disciplines
+
+- Sciences
+
+-- Mathematics
+
+-- Physics
+
+-- Computer science
+
+-- Neurosciecne
+
+--
+
+- Arts and Humanities
+
+-- Art
+
+-- Music
+
+-- Poetry
+
+-- Language
+
+
 
 ## Ethics
 
 ## Epistemology
 
 ## Logic
+
+## Aesthetics
+
+## Philosophy of the mind
+
+## History of philosophy
