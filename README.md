@@ -19,21 +19,25 @@ A curated list of awesome philosophy
 
 + [History of philosophy](#History-of-philosophy)
 
-    * [Classical](#Classical)
+    * [Western Civlization](#Western-civilization)
+
+        * [Classical](#Classical)
     
-    * [Christian and Medieval](#Christian-and-Medieval)
+        * [Christian and Medieval](#Christian-and-Medieval)
     
-    * [Early modern](#Early-modern)
+        * [Early modern](#Early-modern)
     
-    * [Contemporary](#Contemporary)
+        * [Contemporary](#Contemporary)
     
-        * [Phenomenology and existentialism](#Phenomenology-and-existentialism)
+            * [Phenomenology and existentialism](#Phenomenology-and-existentialism)
         
-        * [Hermeneutics and deconstruction](#Hermeneutics-and-deconstruction)
+            * [Hermeneutics and deconstruction](#Hermeneutics-and-deconstruction)
         
-        * [Structuralism and post-structuralism](#Structuralism-and-post-structuralism)
+            * [Structuralism and post-structuralism](#Structuralism-and-post-structuralism)
         
-        * [Critical theory and Marxism](#Critical-theory-and-Marxism)
+            * [Critical theory and Marxism](#Critical-theory-and-Marxism)
+            
+    * [Eastern Civlization](#Eastern-civilization)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
@@ -253,27 +257,29 @@ A curated list of awesome philosophy
 
 ## History of philosophy
 
+### Western civilizaiton
+
 * Bertrand Russell "A History of Western Philosophy"
 
-### Classical
+#### Classical
 
 * Marcus Aurelius "Meditations""
 
 * Plato "Symposium" "Parmenides" "Phaedrus"
 
-### Christian and Medieval
+#### Christian and Medieval
 
 * Augustine of Hippo "Confessions" "The City of God"
 
-### Early modern
+#### Early modern
 
 * David Hume "A Treatise of Human Nature" "Four Dissertationss" "Essays, Moral, Political, and Literary"
 
 * Immanuel Kant "A Critique of Pure Reason" "A Critique of Judgement"
 
-### Contemporary
+#### Contemporary
 
-#### Phenomenology and existentialism
+##### Phenomenology and existentialism
 
 * Simone de Beauvoir "The Second Sex"
 
@@ -287,7 +293,7 @@ A curated list of awesome philosophy
 
 * Jean-Paul Sartre, "Being and Nothingness" "Critique of Dialectical Reason"
 
-#### Hermeneutics and deconstruction
+##### Hermeneutics and deconstruction
 
 * Jacques Derrida "Of Grammatology"
 
@@ -295,7 +301,7 @@ A curated list of awesome philosophy
 
 * Paul Ricœur "Freud and Philosophy: An Essay on Interpretation"
 
-#### Structuralism and post-structuralism
+##### Structuralism and post-structuralism
 
 * Michel Foucault "The Order of Things"
 
@@ -307,7 +313,7 @@ A curated list of awesome philosophy
 
 * Michel Foucault "Discipline and Punish"
 
-#### Critical theory and Marxism
+##### Critical theory and Marxism
 
 * Theodor Adorno "Negative Dialectics"
 
@@ -322,6 +328,8 @@ A curated list of awesome philosophy
 * Georg Lukacs "History and Class Consciousness"
 
 * Herbert Marcuse "Reason and Revolution" "Eros and Civilization"
+
+### Eastern civilization
 
 ## Philosophy of other disciplines
 
