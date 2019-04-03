@@ -161,6 +161,8 @@ A curated list of awesome philosophy
 
 ### Postmodern ethics
 
+* Zygmunt Bauman "Postmodern Ethics"
+
 * Terry Eagleton "The Illusions of Postmodernism"
 
 ### Bioethics
