@@ -493,6 +493,24 @@ A curated list of awesome philosophy
 
 ### Science
 
+* Paul Feyerabend "Against Method: Outline of an Anarchistic Theory of Knowledge"
+
+* Bas C. van Fraassen "The Scientific Image"
+
+* Nelson Goodman "Fact, Fiction, and Forecast"
+
+* Thomas Samuel Kuhn "The Structure of Scientific Revolutions"
+
+* Larry Laudan "The Demise of the Demarcation Problem"
+
+* David K. Lewis "How to Define Theoretical Terms"
+
+* Karl Pearson "The Grammar of Science"
+
+* Karl Popper "The Logic of Scientific Discovery"
+
+* Hans Reichenbach "The Rise of Scientific Philosophy"
+
 #### Mathematics
 
 * Alfred North Whitehead and Bertrand Russell "Principia Mathematica"
