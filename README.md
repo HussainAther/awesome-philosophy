@@ -175,6 +175,8 @@ A curated list of awesome philosophy
 
 * Alfred North Whitehead "Process and Reality"
 
+* Timothy Williamson "Modal Logic as Metaphysics"
+
 * Ludwig Wittgenstein "Tractatus Logico-Philosophicus" (a.k.a. The Tractatus)
 
 ## Philosophy of the mind
