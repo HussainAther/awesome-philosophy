@@ -39,6 +39,8 @@ A curated list of awesome philosophy
             
     * [Eastern Civlization](#Eastern-civilization)
     
+        * [Chinese philosophy](#Chinese-philosophy)
+    
         * [Indian philosophy](#Indian-philosophy)
     
         * [Islamic philosophy](#Islamic-philosophy)
@@ -394,6 +396,10 @@ A curated list of awesome philosophy
 * Herbert Marcuse "Reason and Revolution" "Eros and Civilization"
 
 ### Eastern civilization
+
+#### Chinese philosophy
+
+
 
 #### Indian philosophy
 
