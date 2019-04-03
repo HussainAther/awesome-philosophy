@@ -231,6 +231,8 @@ A curated list of awesome philosophy
 
 #### Chemistry
 
+* Jaap van Brakel "Philosophy of Chemistry"
+
 #### Biology
 
 #### Sociology
