@@ -44,6 +44,8 @@ A curated list of awesome philosophy
         * [Indian philosophy](#Indian-philosophy)
     
         * [Islamic philosophy](#Islamic-philosophy)
+        
+        * [Japanese philosophy](#Japanese-philosophy)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
@@ -438,6 +440,22 @@ A curated list of awesome philosophy
 #### Islamic philosophy
 
 * Al-Ghazali "The Incoherence of the Philosophers"
+
+#### Japanese philosophy
+
+* Hakuin Ekaku "Wild Ivy"
+
+* Honen "One-Sheet Document"
+
+* Kukai "Attaining Enlightenment in this Very Existence"
+
+* Zeami Motokiyo "Style and Flower"
+
+* Miyamoto Musashi "The Book of Five Rings"
+
+* Shinran "Kyogyoshinsho"
+
+* Dogen Zenji "Shōbōgenzō"
 
 ## Philosophy of other disciplines
 
