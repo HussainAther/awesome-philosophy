@@ -287,13 +287,17 @@ A curated list of awesome philosophy
 
 * Peter Carruthers "The Architecture of the Mind"
 
-* David Chalmers "Philosophy of Mind: Classical and Contemporary Readings" "The Character of Consciousness"
+* David Chalmers "Philosophy of Mind: Classical and Contemporary Readings" "The Character of Consciousness" "The Conscious Mind: In Search of a Fundamental Theory"
 
 * Andy Clark "Supersizing the Mind: Embodiment, Action, and Cognitive Extension"
 
 * Daniel Dennett  "Consciousness Explained"
 
+* Jaegwon Kim "Philosophy of Mind"
+
 * Ruth Millikan "Varieties of Meaning"
+
+* Gilbert Ryle "The Concept of Mind"
 
 ## History of philosophy
 
