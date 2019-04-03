@@ -7,6 +7,14 @@ A curated list of awesome philosophy
 
     * [Classical ethics](#Classical-ethics)
     
+    * [Christian and Medieval ethics](#Christian-and-Medieval-ethics)
+    
+    * [Modern ethics](#Modern-ethics)
+    
+    * [Postmodern ethics](#Postmodern-ethics)
+    
+    * [Bioethics](#Bioethics)
+    
 + [Meta-ethics](#Meta-ethics)
 
 + [Epistemology](#Epistemology)
@@ -23,7 +31,7 @@ A curated list of awesome philosophy
 
     * [Western Civlization](#Western-civilization)
 
-        * [Classical philosophy](#Classical philosophy)
+        * [Classical philosophy](#Classical-philosophy)
     
         * [Christian and Medieval](#Christian-and-Medieval)
     
@@ -99,7 +107,7 @@ A curated list of awesome philosophy
 
 * Aristotle "Nichomachean Ethics" "On Virtues and Vices"
 
-### Christian and Medieval
+### Christian and Medieval ethics
 
 * Thomas Aquinas "Summa Theologica"
 
@@ -109,7 +117,7 @@ A curated list of awesome philosophy
 
 * William of Ockham "Sum of Logic"
 
-### Modern
+### Modern ethics
 
 * G. E. M. Anscombe "Modern Moral Philosophy"
 
@@ -151,11 +159,11 @@ A curated list of awesome philosophy
 
 * Bernard Williams "Ethics and the Limits of Philosophy"
 
-#### Postmodern
+### Postmodern ethics
 
 * Terry Eagleton "The Illusions of Postmodernism"
 
-#### Bioethics
+### Bioethics
 
 * Don Marquis "Why Abortion is Immoral"
 
