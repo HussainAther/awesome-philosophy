@@ -257,6 +257,18 @@ A curated list of awesome philosophy
 
 #### Phenomenology and existentialism
 
+* Simone de Beauvoir "The Second Sex"
+
+* Albert Camus "Myth of Sisyphus"
+
+* Martin Heidegger "Being and Time"
+
+* Edmund Husserl "Logical Investigations" "Cartesian Meditations" "Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy"
+
+* Maurice Merleau-Ponty "Phenomenology of Perception"
+
+* Jean-Paul Sartre, "Being and Nothingness" "Critique of Dialectical Reason"
+
 #### Hermeneutics and deconstruction
 
 #### Structuralism and post-structuralism
