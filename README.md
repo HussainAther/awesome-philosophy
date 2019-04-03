@@ -281,7 +281,7 @@ A curated list of awesome philosophy
 
 * Michel Foucault "The Order of Things"
 
- * Gilles Deleuze "Difference and Repetition"
+* Gilles Deleuze "Difference and Repetition"
  
 * Gilles Deleuze and Felix Guattari "Capitalism and Schizophrenia"
 
