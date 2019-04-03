@@ -5,7 +5,7 @@ A curated list of awesome philosophy
 
 + [Ethics](#Ethics)
 
-    * [Classical](#Classical)
+    * [Classical ethics](#Classical-ethics)
     
 + [Meta-ethics](#Meta-ethics)
 
@@ -23,7 +23,7 @@ A curated list of awesome philosophy
 
     * [Western Civlization](#Western-civilization)
 
-        * [Classical](#Classical)
+        * [Classical philosophy](#Classical philosophy)
     
         * [Christian and Medieval](#Christian-and-Medieval)
     
@@ -95,7 +95,7 @@ A curated list of awesome philosophy
 
 ## Ethics
 
-### Classical
+### Classical ethics
 
 * Aristotle "Nichomachean Ethics" "On Virtues and Vices"
 
@@ -281,7 +281,7 @@ A curated list of awesome philosophy
 
 * Bertrand Russell "A History of Western Philosophy"
 
-#### Classical
+#### Classical philosophy
 
 * Marcus Aurelius "Meditations""
 
