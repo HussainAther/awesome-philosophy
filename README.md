@@ -561,7 +561,9 @@ A curated list of awesome philosophy
 
 * Scott Aaronson "Why Philosophers Should Care About Computational Complexity"
 
-* Judea Pearl "Causality""
+* Judea Pearl "Causality"
+
+* Ray Turner "The Philosophy of Computer Science"
 
 #### Neuroscience
 
