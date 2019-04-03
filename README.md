@@ -279,6 +279,16 @@ A curated list of awesome philosophy
 
 #### Structuralism and post-structuralism
 
+* Michel Foucault "The Order of Things"
+
+ * Gilles Deleuze "Difference and Repetition"
+ 
+* Gilles Deleuze and Felix Guattari "Capitalism and Schizophrenia"
+
+* Luce Irigaray "Speculum of the Other Woman"
+
+* Michel Foucault "Discipline and Punish"
+
 #### Critical theory and Marxism
 
 ## Philosophy of other disciplines
