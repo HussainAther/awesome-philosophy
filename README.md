@@ -63,7 +63,7 @@ A curated list of awesome philosophy
 
 ### Classical
 
-* Aristotle "Nichomachean Ethics" "On Virtues and Vices" "Politics"
+* Aristotle "Nichomachean Ethics" "On Virtues and Vices"
 
 ### Christian and Medieval
 
@@ -252,6 +252,8 @@ A curated list of awesome philosophy
 * H.L.A. Hart "The Concept of Law"
 
 ### Politics
+
+* Aristotle "Politics"
 
 * Isaiah Berlin "Two Concepts of Liberty"
 
