@@ -137,6 +137,8 @@ A curated list of awesome philosophy
 
 * Roderick Chisholm "Theory of Knowledge"
 
+* Keith DeRose "The Case for Contextualism"
+
 * René Descartes "Discourse on the Method", "Meditations on First Philosophy"
 
 * Edmund Gettier "Is Justified True Belief Knowledge?"
@@ -145,13 +147,27 @@ A curated list of awesome philosophy
 
 * Susan Haack "Evidence and Enquiry"
 
+* Hilary Kornblith "Knowledge and its Place in Nature"
+
+* Jonathan Kvanvig "The Value of Knowledge and the Pursuit of Understanding"
+
+* David K. Lewis "Elusive Knowledge"
+
 * G. E. Moore "A Defence of Common Sense"
+
+* Willard van Orman Quine "Epistemology Naturalized"
 
 * Richard Rorty "Philosophy and the Mirror of Nature"
 
 * Bertrand Russell "The Problems of Philosophy"
 
+* Jason Stanley "Knowledge and Practical Interest"
+
 * Stephen Stich "The Fragmentation of Reason"
+
+* Peter Unger "Ignorance: A Case for Scepticism"
+
+* Timothy Williamson "Knowledge and its Limits"
 
 ## Logic
 
