@@ -69,6 +69,8 @@ A curated list of awesome philosophy
 
 #### Computer science
 
+* Judea Pearl "Causality""
+
 #### Neuroscience
 
 #### Biology
