@@ -38,6 +38,8 @@ A curated list of awesome philosophy
             * [Critical theory and Marxism](#Critical-theory-and-Marxism)
             
     * [Eastern Civlization](#Eastern-civilization)
+    
+            * [Islamic philosophy](#Islamic-philosophy)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
 
@@ -330,6 +332,10 @@ A curated list of awesome philosophy
 * Herbert Marcuse "Reason and Revolution" "Eros and Civilization"
 
 ### Eastern civilization
+
+#### Islamic philosophy
+
+* Al-Ghazali, The Incoherence of the Philosophers
 
 ## Philosophy of other disciplines
 
