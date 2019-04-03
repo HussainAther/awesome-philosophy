@@ -155,7 +155,15 @@ A curated list of awesome philosophy
 
 * Aristotle "Metaphysics"
 
+* A. J. Ayer "Language, Truth, and Logic"
+
 * John Dewey "Experience and Nature"
+
+* William James "Pragmatism"
+
+* Alfred North Whitehead "Process and Reality"
+
+* Ludwig Wittgenstein "Tractatus Logico-Philosophicus" (a.k.a. The Tractatus)
 
 ## Philosophy of the mind
 
