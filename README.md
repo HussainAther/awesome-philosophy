@@ -233,3 +233,6 @@ A curated list of awesome philosophy
 
 #### History
 
+* R.G. Collingwood "The Idea of History"
+
+* Karl Löwith "Meaning in History: The Theological Implications of the Philosophy of History"
