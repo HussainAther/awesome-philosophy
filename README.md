@@ -83,6 +83,12 @@ A curated list of awesome philosophy
 
 ### Christian and Medieval
 
+* Thomas Aquinas "Summa Theologica"
+
+* Saint Bonaventure "Commentary on the Sentences"
+
+* William of Ockham "Sum of Logic"
+
 ### Modern
 
 * G. E. M. Anscombe "Modern Moral Philosophy"
