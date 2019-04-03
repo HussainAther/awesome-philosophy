@@ -135,6 +135,18 @@ A curated list of awesome philosophy
 
 ## Logic
 
+* Donald Davidson "Truth and Meaning"
+
+* Gottlob Frege "Begriffsschrift"
+
+* Kurt Gödel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems"
+
+* Saul Kripke, "Semantical Considerations on Modal Logic"
+
+* Charles Sanders Peirce "How to Make Our Ideas Clear"
+
+* Alfred Tarski "The Concept of Truth"
+
 ## Aesthetics
 
 ## Metaphysics
