@@ -39,6 +39,8 @@ A curated list of awesome philosophy
             
     * [Eastern Civlization](#Eastern-civilization)
     
+        * [Indian philosophy](#Indian-philosophy)
+    
         * [Islamic philosophy](#Islamic-philosophy)
 
 + [Philosophy of other disciplines](#Philosophy-of-other-disciplines)
@@ -339,8 +341,6 @@ A curated list of awesome philosophy
 
 * Mary Wollstonecraft "A Vindication of the Rights of Women"
 
-
-
 #### Contemporary
 
 ##### Phenomenology and existentialism
@@ -394,6 +394,26 @@ A curated list of awesome philosophy
 * Herbert Marcuse "Reason and Revolution" "Eros and Civilization"
 
 ### Eastern civilization
+
+#### Indian philosophy
+
+* "The Upanishads"
+
+* "The Bhagavad Gita" ("The Song of God")
+
+* Isvarakrsna "Sankhya Karika"
+
+* Aksapada Gautama "Nyaya Sutras"
+
+* Kanada "Vaisheshika Sutra"
+
+* Patañjali "Yoga Sutras"
+
+* Swami Swatamarama "Hatha Yoga Pradipika"
+
+* Vyasa "Brahma Sutras"
+
+* Tami "Thiruvalluvar"
 
 #### Islamic philosophy
 
