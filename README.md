@@ -203,7 +203,11 @@ A curated list of awesome philosophy
 
 * George Boolos "Logic, Logic and Logic"
 
+* Hartry Field "Science without Numbers: The Defence of Nominalism"
+
 * Imre Lakatos "Proofs and Refutations"
+
+* Penelope Maddy "Second Philosophy"
 
 #### Physics
 
