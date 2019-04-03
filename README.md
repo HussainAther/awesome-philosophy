@@ -267,6 +267,8 @@ A curated list of awesome philosophy
 
 ### Early modern
 
+* David Hume "A Treatise of Human Nature" "Four Dissertationss" "Essays, Moral, Political, and Literary"
+
 * Immanuel Kant "A Critique of Pure Reason" "A Critique of Judgement"
 
 ### Contemporary
