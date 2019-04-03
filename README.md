@@ -579,6 +579,8 @@ A curated list of awesome philosophy
 
 * Patricia Churchland "Brain-Wise : Studies in Neurophilosophy" "Neurophilosophy : Toward a Unified Science of the Mind-Brain"
 
+* Carl Craver "Explaining the brain : mechanisms and the mosaic unity of neuroscience"
+
 #### Chemistry
 
 * Jaap van Brakel "Philosophy of Chemistry"
