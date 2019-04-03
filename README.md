@@ -249,7 +249,13 @@ A curated list of awesome philosophy
 
 * J. L. Austin, "A Plea for Excuses" "How To Do Things With Words"
 
+* Michael Dummett "Frege: Philosophy of Language"
+
 * Gottlob Frege "On Sense and Reference"
+
+* H. P. Grice "Logic and Conversation"
+
+* Saul Kripke "Naming and Necessity"
 
 * Willard Van Orman Quine "Word and Object"
 
