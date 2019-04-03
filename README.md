@@ -29,7 +29,13 @@ A curated list of awesome philosophy
 
 -- Neurosciecne
 
---
+-- Biology
+
+-- Sociology
+
+-- Biology
+
+-- Psychology
 
 - Arts and Humanities
 
@@ -41,7 +47,7 @@ A curated list of awesome philosophy
 
 -- Language
 
-
+-- History
 
 ## Ethics
 
