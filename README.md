@@ -49,15 +49,19 @@ A curated list of awesome philosophy
 
 ## Ethics
 
-### Ancient ethics
+### Classical
 
-### Business
+### Christian and Medieval
 
-###
+### Modern
+
+#### Postmodern
 
 ## Epistemology
 
 * René Descartes "Discourse on the Method", "Meditations on First Philosophy"
+
+* Luc Bovens "Bayesian Epistemology"
 
 ## Logic
 
@@ -66,6 +70,8 @@ A curated list of awesome philosophy
 ## Philosophy of the mind
 
 ## History of philosophy
+
+* Bertrand Russell "A History of Western Philosophy"
 
 ### Classical
 
@@ -80,6 +86,8 @@ A curated list of awesome philosophy
 ### Sciences
 
 #### Mathematics
+
+* Alfred North Whitehead and Bertrand Russell "Principia Mathematica"
 
 #### Physics
 
