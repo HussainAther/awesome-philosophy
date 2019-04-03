@@ -563,7 +563,7 @@ A curated list of awesome philosophy
 
 * Judea Pearl "Causality"
 
-* Ray Turner "The Philosophy of Computer Science"
+* Ray Turner "The Philosophy of Computer Science" "Computational Artefacts-Towards a Philosophy of Computer Science"
 
 #### Neuroscience
 
