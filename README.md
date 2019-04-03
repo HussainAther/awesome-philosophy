@@ -283,7 +283,15 @@ A curated list of awesome philosophy
 
 ## Philosophy of the mind
 
-* David Chalmers "Philosophy of Mind: Classical and Contemporary Readings"
+* D. M. Armstrong "A Materialist Theory of the Mind"
+
+* Peter Carruthers "The Architecture of the Mind"
+
+* David Chalmers "Philosophy of Mind: Classical and Contemporary Readings" "The Character of Consciousness"
+
+* Daniel Dennett  "Consciousness Explained"
+
+* Ruth Millikan "Varieties of Meaning"
 
 ## History of philosophy
 
