@@ -32,6 +32,8 @@ A curated list of awesome philosophy
         * [Computer science](#Computer-science)
 
         * [Neuroscience](#Neuroscience)
+        
+        * [Chemistry](#Chemistry)
 
         * [Biology](#Biology)
 
@@ -226,6 +228,8 @@ A curated list of awesome philosophy
 * Judea Pearl "Causality""
 
 #### Neuroscience
+
+#### Chemistry
 
 #### Biology
 
