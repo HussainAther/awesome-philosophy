@@ -249,7 +249,11 @@ A curated list of awesome philosophy
 
 * J. L. Austin, "A Plea for Excuses" "How To Do Things With Words"
 
+* Robert Brandom "Making it Explicit"
+
 * Stanley Cavell "Must We Mean What We Say?"
+
+* Cora Diamond "What Nonsense Might Be"
 
 * Michael Dummett "Frege: Philosophy of Language"
 
