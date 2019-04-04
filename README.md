@@ -245,6 +245,8 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 * Nelson Goodman "Languages of Art: An Approach to a Theory of Symbols"
 
+* George Santayana "The Sense of Beauty"
+
 ## Metaphysics
 
 * Aristotle "Metaphysics"
