@@ -83,8 +83,6 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
         * [Psychology](#Psychology)
         
-        * [Medicine](#Medicine)
-        
         * [Economics](#Economics)
         
     * [Arts and Humanities](#Arts-and-Humanities)
@@ -98,6 +96,8 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
         * [Language](#Language)
 
         * [History](#History)
+        
+    * [Medicine](#Medicine)
     
     * [Law](#Ethics)
     
@@ -621,12 +621,6 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 * William James "The Principles of Psychology"
 
-#### Medicine
-
-* Mario Bunge "Medical Philosophy: Conceptual Issues in Medicine"
-
-* R. Paul Thompson and Ross E. G. Upshur "Philosophy of Medicines"
-
 #### Economics
 
 * Kenneth Arrow "Social Choice and Individual Values"
@@ -688,6 +682,12 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 * R.G. Collingwood "The Idea of History"
 
 * Karl Löwith "Meaning in History: The Theological Implications of the Philosophy of History"
+
+### Medicine
+
+* Mario Bunge "Medical Philosophy: Conceptual Issues in Medicine"
+
+* R. Paul Thompson and Ross E. G. Upshur "Philosophy of Medicines"
 
 ### Law
 
