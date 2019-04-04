@@ -613,6 +613,8 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 #### Sociology
 
+* B. F. Skinner "Science and Human Behavior"
+
 #### Psychology
 
 * Donald Davidson "The Very Idea of a Conceptual Scheme"
