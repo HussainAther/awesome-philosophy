@@ -637,6 +637,8 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 #### Art
 
+* Roger Scruton "Music as an Art"
+
 #### Music
 
 #### Literature
