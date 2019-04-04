@@ -15,7 +15,7 @@ A curated list of awesome philosophy
     
     * [Bioethics](#Bioethics)
     
-+ [Meta-ethics](#Meta-ethics)
++ [Meta-ethics (Metaethics)](#Meta-ethics-Metaethics)
 
 + [Epistemology](#Epistemology)
 
@@ -173,7 +173,7 @@ A curated list of awesome philosophy
 
 * Judith Jarvis Thomson "A Defense of Abortion"
 
-## Meta-ethics
+## Meta-ethics (Metaethics)
 
 * P. F. Strawson "Freedom and Resentment"
 
