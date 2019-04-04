@@ -639,6 +639,10 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 #### Art
 
+* Clive Bell "Art"
+
+* George Dickie "Art and the Aesthetic"
+
 #### Music
 
 * Roger Scruton "Music as an Art"
