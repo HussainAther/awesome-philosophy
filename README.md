@@ -363,7 +363,7 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
 
 * John Stuart Mill "On Liberty "Utilitarianism"
 
-*John Stuart Mill and Harriet Taylor Mill "The Subjection of Women"
+* John Stuart Mill and Harriet Taylor Mill "The Subjection of Women"
 
 * Michel de Montaigne "Essays"
 
