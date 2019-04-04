@@ -1,6 +1,8 @@
 # [Awesome philosophy](#Awesome-philosophy)
 A curated list of awesome philosophy
 
+Contributions and criticism are welcome. (See: https://github.com/HussainAther/awesome-philosophy/blob/master/contributing.md)
+
 # [Table of contents](#Table-of-contents)
 
 + [Ethics](#Ethics)
