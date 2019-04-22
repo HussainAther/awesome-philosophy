@@ -31,7 +31,7 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 + [History of philosophy](#History-of-philosophy)
 
-    * [Western Civlization](#Western-civilization)
+    * [Western Civilization](#Western-civilization)
 
         * [Classical philosophy](#Classical-philosophy)
     
