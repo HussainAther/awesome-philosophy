@@ -307,7 +307,7 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 ## History of philosophy
 
-### Western civilizaiton
+### Western civilization
 
 * Bertrand Russell "A History of Western Philosophy"
 
