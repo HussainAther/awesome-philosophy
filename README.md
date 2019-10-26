@@ -707,6 +707,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Robert Nozick "Anarchy, State, and Utopia"
 
+* Plato "Republic"
+
 * Karl Popper "The Open Society and Its Enemies"
 
 * John Rawls "A Theory of Justice"
