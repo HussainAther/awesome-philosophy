@@ -449,6 +449,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Han Fei "Han Feizi"
 
+* "I Ching" (Yijing, Book of Changes) — [The I Ching: A Beginner's Guide to the 64 Hexagrams](https://www.youriching.com/i-ching-books), a free PDF/ePub introduction to the hexagrams, the judgments and the changing lines.
+
 * Kongzi "Analects" "Five Classics"
 
 * Laozi "Dao De Jing"
