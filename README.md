@@ -263,6 +263,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * William James "Pragmatism"
 
+* [The Origin of Reality](https://thingspool.net/reality/list.html) — An 18-part essay series by Youngjin Kang on the definition of reality and its semantic nature.
+
 * Immanuel Kant "Groundwork of the Metaphysics of Morals"
 
 * James Ladyman, Don Ross, David Spurrett, John Collier "Every Thing Must Go: Metaphysics Naturalized"
