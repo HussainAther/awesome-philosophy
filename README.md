@@ -459,6 +459,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Sunzi "Art of War"
 
+* [Yangming Mind OS](https://github.com/sunhaoyu-sawma/Yangming-Mind-OS) — An open, bilingual knowledge system that turns Wang Yangming's philosophy into practical tools for decisions, emotions, and action.
+
 * Zhou Dunyi "The Taiji Tushuo"
 
 * Zhu Xi "Four Books" "Reflections on Things at Hand"
