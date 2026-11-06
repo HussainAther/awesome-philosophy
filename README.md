@@ -583,6 +583,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Tim Lewens "The Meaning of Science: An Introduction to the Philosophy of Science"
 
+* Bernhard Mueller ["Observers Who Read Their Universe into Existence"](https://philpapers.org/rec/MUEFOC)
+
 #### Computer science
 
 * Scott Aaronson "Why Philosophers Should Care About Computational Complexity"
