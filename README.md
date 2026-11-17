@@ -591,6 +591,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Scott Aaronson "Why Philosophers Should Care About Computational Complexity"
 
+* [Post-AI Computer Science](https://thingspool.net/shards-of-sanity/list.html) — An essay series by Youngjin Kang on reinventing computer science in the age of AI coding agents.
+
 * Judea Pearl "Causality"
 
 * Ray Turner "The Philosophy of Computer Science" "Computational Artefacts-Towards a Philosophy of Computer Science"
