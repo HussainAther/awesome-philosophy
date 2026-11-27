@@ -453,6 +453,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * "I Ching" (Yijing, Book of Changes) — [The I Ching: A Beginner's Guide to the 64 Hexagrams](https://www.youriching.com/i-ching-books), a free PDF/ePub introduction to the hexagrams, the judgments and the changing lines.
 
+* - "I Ching" (Yijing) — [The Ask Yi I Ching](https://askyi.app/i-ching-pdf/), translated by manpo: the full Chinese text and an English translation side by side, CC BY 4.0.
+
 * Kongzi "Analects" "Five Classics"
 
 * Laozi "Dao De Jing"
